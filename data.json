@@ -1,0 +1,62 @@
+{
+  "name": "Ethan Smith",
+  "title": "CEO @ Graphite.io | Reforge | IE Business School",
+  "summary": "Growth expert, founder, and pioneer in AEO (Answer Engine Optimization) and SEO frameworks. Known for the '5% Rule' in growth marketing.",
+  "expertise": [
+    "SEO (Search Engine Optimization)",
+    "AEO (Answer Engine Optimization)",
+    "Growth Strategy",
+    "Topical Authority",
+    "Programmatic Content"
+  ],
+  "frameworks": [
+    {
+      "name": "The 5% Rule",
+      "description": "95% of SEO/Growth work results in low impact; the remaining 5% drives 95% of the results. Identify and scale the 5%."
+    },
+    {
+      "name": "Topical Authority",
+      "description": "Building topical context rather than individual keywords to dominate search engine and AI recommendations."
+    },
+    {
+      "name": "AEO (Answer Engine Optimization)",
+      "description": "Optimizing content to be the primary citation for LLMs like ChatGPT, Perplexity, and Claude."
+    }
+  ],
+  "experience": [
+    {
+      "role": "CEO & Founder",
+      "company": "Graphite.io",
+      "impact": "Helping Notion, MasterClass, and Webflow scale through SEO and AEO strategy."
+    },
+    {
+      "role": "Adjunct Professor",
+      "company": "IE Business School",
+      "description": "Teaching SEO and Growth Marketing since 2011."
+    },
+    {
+      "role": "Entrepreneur in Residence (EIR)",
+      "company": "TCV",
+      "description": "Focused on Growth Equity."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc in Human-Computer Interaction",
+      "university": "University College London (UCL)"
+    },
+    {
+      "degree": "MBA",
+      "university": "IE Business School"
+    },
+    {
+      "degree": "BS in CS & BA in Psychology",
+      "university": "UC Santa Barbara"
+    }
+  ],
+  "resources": [
+    "https://graphite.io/five-percent",
+    "https://www.linkedin.com/in/ethanls/",
+    "https://reforge.com"
+  ]
+}
